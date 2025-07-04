@@ -138,9 +138,6 @@ public class Qes1_13 {
 		ageHeight = ageInt == 25 || heightInt >= 160;
 		System.out.println(ageHeight);
 		
-		int java;
-		java = 3;
-		System.out.println(java);
 	}
 
 }
